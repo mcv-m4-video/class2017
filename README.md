@@ -10,19 +10,19 @@ Each team has set up a project page where you can access their final report, sli
 | [Paper][team1-paper] | [Paper][team2-paper] | [Paper][team3-paper] | [Paper][team4-paper] | [Paper][team5-paper] | [Paper][team6-paper] | 
 | [Slides][team1-slides] | [Slides][team2-slides] | [Slides][team3-slides] |[Slides][team4-slides] |[Slides][team5-slides] |[Slides][team6-slides] |
 
-[team1-web]: https://mcv-m4-video.github.io/mcv-m4-2017-team1/
-[team2-web]: https://mcv-m4-video.github.io/mcv-m4-2017-team2/
-[team3-web]: https://mcv-m4-video.github.io/mcv-m4-2017-team3/
-[team4-web]: https://mcv-m4-video.github.io/mcv-m4-2017-team4/
-[team5-web]: https://mcv-m4-video.github.io/mcv-m4-2017-team5/
-[team6-web]: https://mcv-m4-video.github.io/mcv-m4-2017-team6/
+[team1-web]: https://mcv-m6-video.github.io/mcv-m4-2017-team1/
+[team2-web]: https://mcv-m6-video.github.io/mcv-m4-2017-team2/
+[team3-web]: https://mcv-m6-video.github.io/mcv-m4-2017-team3/
+[team4-web]: https://mcv-m6-video.github.io/mcv-m4-2017-team4/
+[team5-web]: https://mcv-m6-video.github.io/mcv-m4-2017-team5/
+[team6-web]: https://mcv-m6-video.github.io/mcv-m4-2017-team6/
 
-[team1-paper]: https://github.com/mcv-m4-video/mcv-m4-2017-team1/blob/master/m4-t1-report.pdf
-[team2-paper]: https://github.com/mcv-m4-video/mcv-m4-2017-team2/blob/master/video-surveillance-road.pdf
-[team3-paper]: https://github.com/mcv-m4-video/mcv-m4-2017-team3/tree/master/paper/paper.pdf
-[team4-paper]: https://github.com/mcv-m4-video/mcv-m4-2017-team4/blob/master/low-cost-video.pdf
-[team5-paper]: https://github.com/mcv-m4-video/mcv-m4-2017-team5/raw/gh-pages/traffic-road-monitoring.pdf
-[team6-paper]: https://github.com/mcv-m4-video/mcv-m4-2017-team6/blob/master/docs/video-surveillance-road.pdf
+[team1-paper]: https://github.com/mcv-m6-video/mcv-m4-2017-team1/blob/master/m4-t1-report.pdf
+[team2-paper]: https://github.com/mcv-m6-video/mcv-m4-2017-team2/blob/master/video-surveillance-road.pdf
+[team3-paper]: https://github.com/mcv-m6-video/mcv-m4-2017-team3/tree/master/paper/paper.pdf
+[team4-paper]: https://github.com/mcv-m6-video/mcv-m4-2017-team4/blob/master/low-cost-video.pdf
+[team5-paper]: https://github.com/mcv-m6-video/mcv-m4-2017-team5/raw/gh-pages/traffic-road-monitoring.pdf
+[team6-paper]: https://github.com/mcv-m6-video/mcv-m4-2017-team6/blob/master/docs/video-surveillance-road.pdf
 
 [team1-slides]: https://docs.google.com/presentation/d/1NZLTL-QDq9m6DN5pzyP7y-NhgoAymA5-76OgPpYTE44/edit?usp=sharing
 [team2-slides]: https://docs.google.com/presentation/d/1xk6STeVmLUV_AFRNvD73m3doFRsy1Ewm3lZIfvQDc9o/
