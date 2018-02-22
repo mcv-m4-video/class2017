@@ -7,6 +7,7 @@ Each team has set up a project page where you can access their final report, sli
 
 | [Team 1][team1-web] | [Team 2][team2-web] | [Team 3][team3-web]  | [Team 4][team4-web] | [Team 5][team5-web] | [Team 6][team6-web] |
 |---|:-:|---|---|---|---|
+| Matlab | Matlab | Python | Matlab | Matlab | Matlab |
 | [Paper][team1-paper] | [Paper][team2-paper] | [Paper][team3-paper] | [Paper][team4-paper] | [Paper][team5-paper] | [Paper][team6-paper] | 
 | [Slides][team1-slides] | [Slides][team2-slides] | [Slides][team3-slides] |[Slides][team4-slides] |[Slides][team5-slides] |[Slides][team6-slides] |
 
